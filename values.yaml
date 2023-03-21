@@ -106,7 +106,7 @@ global:
           protocol: TCP
           targetPort: 8443
         http-8778:
-          port: 8778
+          port: 9999
           protocol: TCP
           targetPort: 8778
       public: false
